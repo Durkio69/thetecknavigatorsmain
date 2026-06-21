@@ -1,0 +1,6 @@
+{
+  "name": "The Tech Navigators",
+  "description": "Professional digital services kiosk in Mbuya, Nakawa, Kampala, Uganda. Simple. Fast. Reliable.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
