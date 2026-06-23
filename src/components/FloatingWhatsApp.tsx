@@ -44,7 +44,7 @@ export default function FloatingWhatsApp() {
               <p className="font-bold text-navy-950 font-display">The Tech Navigators</p>
             </div>
             <p className="text-slate-600 font-sans leading-tight">
-              Hello! Tap here to submit files, check result slips, or ask about National ID/Passport forms.
+              Hello! Tap here to ask more about other services.
             </p>
           </div>
           <button
