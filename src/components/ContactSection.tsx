@@ -54,7 +54,7 @@ export default function ContactSection({ darkMode }: ContactSectionProps) {
               <p className={`text-sm leading-relaxed ${
                 darkMode ? "text-slate-300" : "text-slate-600"
               }`}>
-                We are conveniently located in the Mbuya business neighborhood, Nakawa, of Kampala, Uganda. Bring your mobile phones, laptops, and application sheets for immediate processing.
+                We are conveniently located in the Mbuya|Kinawataka along Robert Mugabe Road. Bring your mobile phones, laptops, and application sheets depending on the service you want for immediate processing.
               </p>
 
               {/* Call Channels */}
