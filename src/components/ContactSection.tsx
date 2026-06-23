@@ -191,7 +191,7 @@ export default function ContactSection({ darkMode }: ContactSectionProps) {
                 rel="noreferrer"
                 className="inline-flex items-center gap-1.5 text-xs text-gold-400 hover:text-white font-bold transition-all"
               >
-                <span>Upload PDF now</span>
+                <span>Upload it now</span>
                 <ArrowRight className="w-3.5 h-3.5" />
               </a>
             </div>
