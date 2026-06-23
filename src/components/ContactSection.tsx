@@ -211,7 +211,7 @@ export default function ContactSection({ darkMode }: ContactSectionProps) {
                   <span>Google Maps: Mbuya, Kampala</span>
                 </span>
                 <a
-                  href="https://maps.google.com/?q=Mbuya+Kampala+Uganda"
+                  href="https://maps.google.com/?q=Mbuya+Kampala+Nakawa+Wakiso+Kawempe+Northen Uganda+Eastern Uganda+Western Uganda+Uganda"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center gap-1 hover:text-white text-gold-400"
