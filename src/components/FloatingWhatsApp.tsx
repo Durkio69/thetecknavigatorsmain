@@ -44,7 +44,7 @@ export default function FloatingWhatsApp() {
               <p className="font-bold text-navy-950 font-display">The Tech Navigators</p>
             </div>
             <p className="text-slate-600 font-sans leading-tight">
-              Hello! Tap here to ask more about other services.
+              Hello! Tap here to submit files, check result slips, or ask about National ID/Passport forms.
             </p>
           </div>
           <button
@@ -66,7 +66,7 @@ export default function FloatingWhatsApp() {
         href="https://wa.me/256757808474"
         target="_blank"
         rel="noopener noreferrer"
-        className="relative p-3.5 bg-[#25D366] hover:bg-[#20ba59] text-white rounded-full shadow-2xl hover:shadow-[#25D366]/35 transition-all active:scale-95 group flex items-center justify-center animate-pulse"
+        className="relative p-3.5 bg-[#25D366] hover:bg-[#20ba59] text-white rounded-full shadow-2xl hover:shadow-[#25D366]/35 transition-all active:scale-95 group flex items-center justify-center[...]"
         title="Chat on WhatsApp"
         aria-label="WhatsApp main trigger"
         id="global-floating-whats-app"
